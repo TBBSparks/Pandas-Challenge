@@ -1,1 +1,1 @@
-Heroes of pyMoli
+Heroes of Pymoli
